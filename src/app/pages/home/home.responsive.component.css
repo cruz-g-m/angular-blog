@@ -1,0 +1,15 @@
+@media screen and (max-width:700px) {
+    .container__articles{
+      width: 300px;
+      height: 250px;
+      margin-left: 160px;
+  }
+}
+
+@media screen and (max-width:450px) {
+    .container__articles{
+      width: 150px;
+      height: 125px;
+      margin-left: 110px;
+  }
+}
